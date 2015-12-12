@@ -16,7 +16,6 @@
 	</properties>
 
 	<build>
-		<finalName>demo</finalName>
 		<pluginManagement>
 			<plugins>
 				<plugin>
